@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Nikita 👋
 
-<!--
-**nikita-klenkin/nikita-klenkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Apprentice focused on Linux, Networking and Cloud Infrastructure.
 
-Here are some ideas to get you started:
+I am building structured homelab projects to develop strong foundations in infrastructure, automation and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About me
+
+- 💻 IT Apprentice in System Integration
+- 🐧 Currently focusing on Linux & Cloud Infrastructure
+- 🏋️‍♂️ Passionate about fitness and calisthenics
+
+---
+
+## 🎯 Goal
+
+Transition into a Cloud Engineer role by building practical experience and strong technical foundations.
+
+---
+
+## 📍 Location
+
+Germany
