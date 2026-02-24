@@ -16,7 +16,7 @@ I am building structured homelab projects to develop strong foundations in infra
 
 ## 🎯 Goal
 
-Transition into a Cloud Engineer role by building practical experience and strong technical foundations.
+Work toward a Cloud Engineer role by building practical experience and strong technical foundations.
 
 ---
 
